@@ -54,6 +54,10 @@ img {
 }
 
 main{
-  padding-left: 4em;
-  padding-right: 4em;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+footer{
+  padding-top: 5em;
 }
